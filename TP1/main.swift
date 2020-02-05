@@ -6,7 +6,7 @@
 //  Copyright © 2020 Lucas. All rights reserved.
 //
 
-import Foundation
+import TP1
 
 var modele1 = Modele(uneLongueur: 300, uneLargeur: 150, uneProfondeur: 50, unNom: "wow1")
 var emplacement1 = Emplacement(uneLongueur: 400, uneLargeur: 200, uneProfondeur: 150, unPonton: "A32")

@@ -6,7 +6,7 @@
 //  Copyright © 2020 Lucas. All rights reserved.
 //
 
-import Foundation
+import TP1
 
 class Emplacement{
     var longueur:Int
